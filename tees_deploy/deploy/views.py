@@ -7,4 +7,4 @@ def index(request):
 
 def update(request):
     os.system("git pull origin main")
-    return HttpResponse("UPDATE")
+    return HttpResponse("UPDATEsssssss")
